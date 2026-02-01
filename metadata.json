@@ -1,0 +1,5 @@
+{
+  "name": "Gemini SRT Translator Pro",
+  "description": "A professional tool to translate and merge SRT subtitle files using Google Gemini AI, featuring smart sentence merging and custom style prompts.",
+  "requestFramePermissions": []
+}
